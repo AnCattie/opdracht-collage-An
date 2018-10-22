@@ -1,2 +1,1 @@
 # opdracht-collage-An
-collage
